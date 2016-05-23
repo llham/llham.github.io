@@ -1,8 +1,7 @@
 body {
-	background: #000000;
+	background-color: #00cccc;
 }
 
 h1, p {
-	font-style: Ariel, sans-sarif;
-	color: green;
+	color: #ffffe6;
 }
