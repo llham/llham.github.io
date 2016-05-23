@@ -1,0 +1,8 @@
+body {
+	background: #000000;
+}
+
+h1, p {
+	font-style: Ariel, sans-sarif;
+	color: green;
+}
