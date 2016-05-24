@@ -1,7 +1,10 @@
 body {
-	background-image: url(images/sarah.png);
+  text-align: center;
+  background-image: url('http://static1.squarespace.com/static/50c261c1e4b03d8f93a735e6/t/571109e9044262b811ae927c/1460734795908/header-top.png?format=2500w');
+  background-size: cover;
+  font-family: Arial, cursive;
 }
 
 h1 {
-	color: green;
+	color: white;
 }
