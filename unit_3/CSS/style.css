@@ -1,10 +1,43 @@
+ul {
+  	overflow: hidden;
+	font-size: 16px;
+	list-style-type: none;
+	margin: 0;
+    	padding: 0;
+	background-color: #D5c7c7;
+}
+
+li {
+  	float: right;
+  	height: 36px;
+  	line-height: 36px;
+  	padding: 0 20px;
+  	font-size: 12px;
+}
+
 body {
-  text-align: center;
-  background-image: url('http://static1.squarespace.com/static/50c261c1e4b03d8f93a735e6/t/571109e9044262b811ae927c/1460734795908/header-top.png?format=2500w');
-  background-size: cover;
-  font-family: Arial, cursive;
+	font-color: black;
+	font-family: Arial, Gadget, sans-serif;
+	text-align: center;
+    background-image: url(http://images.inmagine.com/400nwm/imagemore/ims9a00067/ims9a00067050.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#slogan {
+	font-style: italic;
 }
 
 h1 {
-	color: white;
+	font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+	font-size: 84px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+	font-color: #D4A190;
+}
+
+img {
+
 }
