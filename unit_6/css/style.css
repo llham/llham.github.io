@@ -1,0 +1,123 @@
+@import url(https://fonts.googleapis.com/css?family=Exo+2:400,900,400italic);
+@import url(https://fonts.googleapis.com/css?family=Martel:300);
+
+header {
+	background-color: #FFF;
+    padding: 10px;
+}
+
+footer {
+	text-align: center;
+	width: 100%;
+	background-color: rgba(147, 197, 227, .8);
+	margin: 0 5px;
+	padding: 5px;
+}
+
+body {
+	font-color: black;
+	font-family: 'Martel', serif;
+}
+
+h1 {
+	font-family: 'Exo 2', sans-serif;
+	font-size: 64px;
+	line-height: 26.4px;
+	font-color: #D4A190;
+	float: right;
+	color: #16446F;
+}
+
+h3 {
+	font-family: 'Exo 2', sans-serif;
+	color: #14416D;
+	font-size: 30px;
+}
+
+a {
+	font-family: 'Martel', serif;
+	color: white;
+	text-decoration: none;
+}
+
+button {
+    border-radius: 5px;
+    border: 0;
+    width: 100px;
+    height:25px;
+    font-family: Tahoma;
+    text-decoration: none;
+    background-color: #17446E;
+}
+
+#two_column {
+    padding: 20px;
+}
+
+#left {
+    padding: 20px;
+    float: left;
+    width: 30%;
+    border: 3px #14416D solid;
+    border-radius: 5px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+}
+
+#right {
+    padding: 30px;
+    float: right;
+    width: 62%;
+    border: 3px #14416D solid;
+    border-radius: 5px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+}
+
+#contact {
+	font-family: 'Martel', serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+#slogan {
+	font-family: 'Martel', serif;
+	font-size: 20px;
+	font-style: italic;
+	text-align: center;
+}
+
+#images_hz {
+	overflow: hidden;
+	width: 100%;
+}
+
+#images_hz img {
+	display: inline;
+	position: relative;
+    float: left;
+    width:  200px;
+    height: 200px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+.wrap {
+	width: 100%;
+	background-color: rgba(241, 90, 34, .8);
+	margin: 5px;
+	padding: 5px;
+}
+
